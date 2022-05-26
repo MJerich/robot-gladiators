@@ -3,7 +3,7 @@
 
 ## Description
 
-Robot Gladiators game assignment for MSU Coding Bootcamp
+A console Robot Gladiators game assignment for MSU Coding Bootcamp
 
 
 ## Deployment
